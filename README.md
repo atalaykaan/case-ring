@@ -72,16 +72,3 @@ The frontend will open in your browser at:
 http://localhost:3000
 
 ---
-
-## Features
-
-- Dynamic product pricing using live gold price per gram
-- Product carousel with:
-  - Side arrows
-  - Swiping on mobile and desktop
-  - Horizontal scrollbar
-- Color picker to change product images
-- Popularity rating with half-star support
-- Responsive design (mobile/tablet/desktop)
-
----
